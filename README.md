@@ -1,6 +1,15 @@
 # Victoria Kaloudis' E-Portfolio
 
-### Professional Self Assessment
+### Welcome to my e-portfolio. This repository documents my progress through the Southern New Hampshire Computer Science Program Capstone course. 
+
+#### <u>Table of Contents<u/>
+&nbsp;[Professional Self-Assessment](#self-assessment "Professional Self-Assessment")<br/>
+&nbsp;[Refinement Plan and Code Review](#codereview "Refinement Plan and Code Review")<br/>
+&nbsp;[Artifacts](#artifacts "Artifacts")<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Original Artifact_](#original-artifact "Original Artifact")<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Pet Hotel Application_](#pet-hotel-application "Pet Hotel Application")<br/>
+
+#### Professional Self-Assessment
 Throughout my computer science program, completing coursework and building my ePortfolio has been instrumental in shaping my technical skillset, professional identity, and long-term career goals. The combination of hands-on projects, collaborative experiences, and rigorous academic challenges has not only helped me showcase my strengths but also prepared me to confidently enter the computer science field with a well-rounded foundation.
 
 One of the most valuable aspects of the program was the opportunity to collaborate in team environments, simulating real-world software development scenarios. In several courses, including Software Engineering and Capstone, I worked in agile teams to design and implement complex applications. These experiences taught me how to delegate tasks effectively, resolve conflicts constructively, and deliver code as part of a larger, cohesive system—critical skills for any software engineering role.
@@ -16,3 +25,10 @@ Lastly, my coursework in cybersecurity heightened my awareness of threats, vulne
 Together, these experiences have shaped my values around teamwork, ethical development, and lifelong learning. They’ve helped me clarify my goal of contributing to impactful, secure, and efficient technologies—and to continuously evolve as a professional in the computer science field.
 
 For this capstone, I decdied to use pseudocode from a very early class in my computer science degree. I was tasked with creating pseudo-code for a pet hotel company. Using the pseudocode, I thought it would be a great idea to develop a mobile application utilizing Android Studio. This will show the skills of what I’ve learned throughout my computer science degree career. I enjoyed learning how to use Android Studio in one of my classes and wanted to apply my knowledge there to this application. By developing the application from scratch, I was able to enhance the software design and engineering by creating the mobile application. The artifact was improved as I turned pseudocode into code.  By utilizing my knowledge in software engineering and development, algorithms and structures, and databases, I was able to create the start of something new. As my graduation day approached, I hope to continue to work on this project and enhance it as I have from pseudocode.
+
+#### Refinement Plan and Code Review
+
+#### Artifacts
+##### Original Artifact
+##### Pet Hotel Application
+
