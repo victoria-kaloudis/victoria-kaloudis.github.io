@@ -37,10 +37,51 @@ When reviewing artifacts from my computer science program, one stood out the mos
 This project had me write pseudocode that lays out a plan for the pet check in method. Based on the pseudocode I wrote, I then created a flowchart for the Pet Check In method. The flowchart helps my team communicate how we are planning to develop the software for our client. The flowchart includes start and end points, appropriate decision branching, and alignment with the Pet Check In process pseudocode.
 
 <div style="text-align: center;">
-    <img src="Images/Original Artifact/Psuedocode Pet Check In.jpg" width="300px" title="Pet Check In Pseudocode Screenshot" />&nbsp;&nbsp;&nbsp;
+    <img src="Images/Original Artifact/Pseudocode Pet Check In.jpg" width="300px" title="Pet Check In Pseudocode Screenshot" />&nbsp;&nbsp;&nbsp;
     <img src="Images/Original Artifact/Pet Check In Flow Chart.jpg" width="300px" title="Pet Check In Flowchart Screenshot" />
     <p><em>Figure 1 - Pet Check In Pseudocode and Flowchart Screenshots</em></p>
 </div>
 
 ##### Pet Hotel Application
+
+To create an application that a pet hotel could utilize, I first conducted user interviews to understand what customers of the application would look for. I contacted some pet boarding services in my area and learned that they would like to have an employee registration database, a screen for available rooms with regards to the pets, ability to add more pet types and update existing pet types in case they expand. I have accomplished creating these user wants in the application. 
+
+<div style="text-align: center;">
+    <img src="Images/Pet Hotel Artifact/Employee Registration Account.jpg" width="300px" title="Employee Registration Screenshot" />&nbsp;&nbsp;&nbsp;
+    <img src="Images/Pet Hotel Artifact/Log In Screen.jpg" width="300px" title="Log In Screenshot" />
+    <p><em>Figure 2 - Employee Registration and Log In Screen Screenshots</em></p>
+</div>
+
+As employees register, their information will be stored in the employee database. Here you can see the database that is created when I register as an employee of the pet hotel.
+
+<div style="text-align: center;">
+    <img src="Images/Pet Hotel Artifact/Databases.jpg" width="300px" title="Databases Screenshot" />&nbsp;&nbsp;&nbsp;
+    <img src="Images/Pet Hotel Artifact/User Database.jpg" width="300px" title="User Databasae Screenshot" />
+    <p><em>Figure 3 - Databases and User Database Screenshots</em></p>
+</div>
+
+After the employee logs into the application, they are directed to the home screen where they can choose one of two options. The second option is not fully completed, just added in to the screen shot to show the potential the application has. The employee will choose Pet Space Availability and be directed to this screen.
+
+<div style="text-align: center;">
+    <img src="Images/Pet Hotel Artifact/Home Screen.jpg" width="300px" title="Home Screen Screenshot" />&nbsp;&nbsp;&nbsp;
+    <img src="Images/Pet Hotel Artifact/Pet Space Availability Screen.jpg" width="300px" title="Pet Space Availability Screenshot" />
+    <p><em>Figure 4 - Home Screen and Pet Availability Screenshots</em></p>
+</div> 
+
+At the Pet Availability Screen, the user can add a new pet type with available space information, or edit an existing pet type by clicking the item they would like to edit. 
+
+<div style="text-align: center;">
+    <img src="Images/Pet Hotel Artifact/Add New Pet Type to DB.jpg" width="300px" title="Add New Pet Type Screenshot" />&nbsp;&nbsp;&nbsp;
+    <img src="Images/Pet Hotel Artifact/Update Pet Type in DB.jpg" width="300px" title="Update Pet Type Screenshot" />
+    <p><em>Figure 5 - Add New Pet Type and Update Pet Type Screenshots</em></p>
+</div> 
+
+As the Pet Types are added in the application, they are also added to the Pet Space Availability Database. 
+
+<div style="text-align: center;">
+    <img src="Images/Pet Hotel Artifact/Pet Space Availability Database.jpg" width="300px" title="Pet Space Availability Screenshot" />
+    <p><em>Figure 6 - Pet Space Availability Database Screenshots</em></p>
+</div> 
+
+While I have accomplished these goals, I would like to continue building on it to allow the pet boarders to use the application for Pet Check In and Pet Check Out. 
 
