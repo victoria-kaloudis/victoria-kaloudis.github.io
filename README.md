@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Original Artifact_](#original-artifact "Original Artifact")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Pet Hotel Application_](#pet-hotel-application "Pet Hotel Application")<br/>
 
-#### Self Introduction
+### Self Introduction
 I’m excited to share my journey with you—a path that has been shaped by a passion for both science and technology. In 2017, I earned my B.S. in Biochemistry from Loyola University Chicago, drawn to the intricate science behind how things work. That passion led me into the biotechnology industry, where I supported pharmaceutical companies in the drug development process.
 
 While working in the field, I began noticing opportunities to improve how we managed and visualized our data. This curiosity sparked my interest in computer science. I started experimenting with Microsoft Workflow, SharePoint rules, and Power BI dashboards to streamline our data operations. Through this hands-on experience, I discovered a new fascination: data science.
@@ -19,7 +19,7 @@ Determined to bridge my scientific background with emerging technologies, I made
 
 Combining biochemistry and computer science has opened the door to a fulfilling career in data science within the pharmaceutical space. I’m eager to continue learning, growing, and contributing to innovations at the intersection of science and technology.
 
-#### Professional Self-Assessment
+### Professional Self-Assessment
 Throughout my computer science program, completing coursework and building my ePortfolio has been instrumental in shaping my technical skillset, professional identity, and long-term career goals. The combination of hands-on projects, collaborative experiences, and rigorous academic challenges has not only helped me showcase my strengths but also prepared me to confidently enter the computer science field with a well-rounded foundation.
 
 One of the most valuable aspects of the program was the opportunity to collaborate in team environments, simulating real-world software development scenarios. In several courses, including Software Engineering and Capstone, I worked in agile teams to design and implement complex applications. These experiences taught me how to delegate tasks effectively, resolve conflicts constructively, and deliver code as part of a larger, cohesive system—critical skills for any software engineering role.
@@ -35,13 +35,13 @@ Lastly, my coursework in cybersecurity heightened my awareness of threats, vulne
 Together, these experiences have shaped my values around teamwork, ethical development, and lifelong learning. They’ve helped me clarify my goal of contributing to impactful, secure, and efficient technologies—and to continuously evolve as a professional in the computer science field.
 
 
-#### Refinement Plan and Code Review
+### Refinement Plan and Code Review
 Here is the link to view my code review of the original artifact: https://youtu.be/_hBfjDUGDWY
 
-#### Artifacts
+### Artifacts
 When reviewing artifacts from my computer science program, one stood out the most to me. When I started the program, I had to create pseudocode to help a pet company with a check in and check out process. Using the pseudocode from this class, I thought it would be a great idea to develop a mobile application utilizing Android Studio. I enjoyed using Android Studio to create an inventory application for a different class and believed it would be enjoyable and also show skills that I have developed in my computer science degree career. A quote by Steve Jobs comes to mind, "The only way to do great work is to love what you do." By combining my enjoyment of utilizing Android Studio with my knowledge of Java script, I could develop the application to the pseudocode. By developing the application from scratch, I was able to enhance the software design and engineering by creating the mobile application. The artifact was improved as I turned pseudocode into code.  By utilizing my knowledge in software engineering and development, algorithms and structures, and databases, I was able to create the start of something new. As my graduation day approaches, I hope to continue to work on this project and enhance it as I have from pseudocode.
 
-##### Original Artifact
+#### Original Artifact
 [Original Pseudocode IT-145 Artifact](Original_Artifact_Pseudocode.docx "Original Artifact Pseudocode")
 
 This project had me write pseudocode that lays out a plan for the pet check in method. Based on the pseudocode I wrote, I then created a flowchart for the Pet Check In method. The flowchart helps my team communicate how we are planning to develop the software for our client. The flowchart includes start and end points, appropriate decision branching, and alignment with the Pet Check In process pseudocode.
@@ -52,7 +52,8 @@ This project had me write pseudocode that lays out a plan for the pet check in m
     <p><em>Figure 1 - Pet Check In Pseudocode and Flowchart Screenshots</em></p>
 </div>
 
-##### Pet Hotel Application
+#### Pet Hotel Application
+[Capstone Project](Pet_Hotel_Android_Studio_Application.zip "Capstone Final Project")
 
 To create an application that a pet hotel could utilize, I first conducted user interviews to understand what customers of the application would look for. I contacted some pet boarding services in my area and learned that they would like to have an employee registration database, a screen for available rooms with regards to the pets, ability to add more pet types and update existing pet types in case they expand. I have accomplished creating these user wants in the application. 
 
