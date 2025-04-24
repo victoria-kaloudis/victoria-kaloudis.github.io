@@ -32,6 +32,15 @@ Here is the link to view my code review of the original artifact: https://youtu.
 When reviewing artifacts from my computer science program, one stood out the most to me. When I started the program, I had to create pseudocode to help a pet company with a check in and check out process. Using the pseudocode from this class, I thought it would be a great idea to develop a mobile application utilizing Android Studio. I enjoyed using Android Studio to create an inventory application for a different class and believed it would be enjoyable and also show skills that I have developed in my computer science degree career. A quote by Steve Jobs comes to mind, "The only way to do great work is to love what you do." By combining my enjoyment of utilizing Android Studio with my knowledge of Java script, I could develop the application to the pseudocode. By developing the application from scratch, I was able to enhance the software design and engineering by creating the mobile application. The artifact was improved as I turned pseudocode into code.  By utilizing my knowledge in software engineering and development, algorithms and structures, and databases, I was able to create the start of something new. As my graduation day approaches, I hope to continue to work on this project and enhance it as I have from pseudocode.
 
 ##### Original Artifact
+[Original Pseudocode IT-145 Artifact](Original_Artifact_Pseudocode.docx "Original Artifact Pseudocode")
+
+This project had me write pseudocode that lays out a plan for the pet check in method. Based on the pseudocode I wrote, I then created a flowchart for the Pet Check In method. The flowchart helps my team communicate how we are planning to develop the software for our client. The flowchart includes start and end points, appropriate decision branching, and alignment with the Pet Check In process pseudocode.
+
+<div style="text-align: center;">
+    <img src="Images/Original Artifact/Psuedocode Pet Check In.jpg" width="300px" title="Pet Check In Pseudocode Screenshot" />&nbsp;&nbsp;&nbsp;
+    <img src="Images/Original Artifact/Pet Check In Flow Chart.jpg" width="300px" title="Pet Check In Flowchart Screenshot" />
+    <p><em>Figure 1 - Pet Check In Pseudocode and Flowchart Screenshots</em></p>
+</div>
 
 ##### Pet Hotel Application
 
