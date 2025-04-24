@@ -31,18 +31,18 @@ These experiences have shaped my thinking about teamwork, responsible developmen
 
 
 ### Refinement Plan and Code Review
-As I reviewed the artifacts from my computer science program, one project stood out above the rest. Early in the program, I was tasked with creating pseudocode for a pet company’s check-in and check-out process. That foundational assignment inspired me to take the project further by developing a mobile application using Android Studio. Having previously built an inventory app in Android Studio for another course—and thoroughly enjoying the experience—I saw an opportunity to merge that interest with the skills I had developed throughout the program. A quote by Steve Jobs resonated with me during this process: “The only way to do great work is to love what you do.” I genuinely enjoyed bringing this project to life. By combining my knowledge of Java, software engineering principles, data structures and algorithms, and database management, I transformed the original pseudocode into a functional mobile app. This hands-on experience allowed me to apply classroom concepts in a meaningful way and significantly improve the original artifact. As graduation approaches, I look forward to continuing this project, refining its features, and exploring its full potential—turning an academic assignment into something real and impactful.
+After reviewing the artifacts from my computer science program, I found that one project stood out above the rest. Early in the program, I was tasked with creating pseudocode for a pet company’s check-in and check-out process. That foundational assignment inspired me to take the project further by developing a mobile application using Android Studio. Having previously built an inventory app in Android Studio for another course—and thoroughly enjoying the experience—I saw an opportunity to merge that interest with the skills I had developed throughout the program. A quote by Steve Jobs resonated with me during this process: “The only way to do great work is to love what you do.” I genuinely enjoyed bringing this project to life. Combining my Java knowledge, software engineering principles, data structures and algorithms, and database management, I transformed the original pseudocode into a functional mobile app. This hands-on experience allowed me to apply classroom concepts meaningfully and significantly improve the original artifact. As graduation approaches, I look forward to continuing this project, refining its features, and exploring its full potential—turning an academic assignment into something tangible and impactful.
 
 Here is the link to view my code review of the original artifact: https://youtu.be/_hBfjDUGDWY
 
 ### Artifacts
 
-The following artifacts represent my growth in the Computer Science program at SNHU. The artifacts demonstrate enhancements in the following categories: Software Design and Engineering, Algorithms and Data Structures, and Databases.
+The following artifacts represent my growth in the Computer Science program at SNHU. The artifacts demonstrate enhancements in Software Design and Engineering, Algorithms and Data Structures, and Databases.
 
 #### Original Artifact
 [Original Pseudocode IT-145 Artifact](Original_Artifact_Pseudocode.docx "Original Artifact Pseudocode")
 
-This project involved designing the logic for a Pet Check-In method by first developing detailed pseudocode to outline the workflow. Based on that pseudocode, I created a corresponding flowchart to visually represent the process. The flowchart serves as a communication tool for my team, helping us align on how we plan to develop the software for our client. It includes clearly defined start and end points, logical decision branches, and full alignment with the original pseudocode, ensuring consistency and clarity throughout the development process.
+This project involved designing the logic for a Pet Check-In method by first developing a detailed pseudocode to outline the workflow. I created a corresponding flowchart to represent the process based on that pseudocode visually. The flowchart serves as a communication tool for my team, helping us align on how we plan to develop the software for our client. It includes clearly defined start and end points, logical decision branches, and complete alignment with the original pseudocode, ensuring consistency and clarity throughout development.
 
 <div style="text-align: center;">
     <img src="Images/Original Artifact/Pseudocode Pet Check In.jpg" width="300px" title="Pet Check In Pseudocode Screenshot" />&nbsp;&nbsp;&nbsp;
@@ -53,7 +53,7 @@ This project involved designing the logic for a Pet Check-In method by first dev
 #### Pet Hotel Application
 [Capstone Project](Pet_Hotel_Android_Studio_Application.zip "Capstone Final Project")
 
-To create an application that a pet hotel could utilize, I first conducted user interviews to understand what customers of the application would look for. I contacted some pet boarding services in my area and learned that they would like to have an employee registration database, a screen for available rooms with regards to the pets, ability to add more pet types and update existing pet types in case they expand. I have accomplished creating these user wants in the application. 
+To create an application that a pet hotel could utilize, I first conducted user interviews to understand what customers of the application would look for. I contacted some pet boarding services in my area and learned that they would like to have an employee registration database, a screen for available rooms regarding pets, and the ability to add more pet types and update existing pet types in case they expand. I have accomplished creating what these users want in the application.  
 
 <div style="text-align: center;">
     <img src="Images/Pet Hotel Artifact/Employee Registration Account.jpg" width="300px" title="Employee Registration Screenshot" />&nbsp;&nbsp;&nbsp;
@@ -61,7 +61,7 @@ To create an application that a pet hotel could utilize, I first conducted user 
     <p><em>Figure 2 - Employee Registration and Log In Screen Screenshots</em></p>
 </div>
 
-As employees register, their information will be stored in the employee database. Here you can see the database that is created when I register as an employee of the pet hotel.
+When employees register, their information is stored in the employee database. Here, you can see the database that is created when I register as an employee of the pet hotel.
 
 <div style="text-align: center;">
     <img src="Images/Pet Hotel Artifact/Databases.jpg" width="300px" title="Databases Screenshot" />&nbsp;&nbsp;&nbsp;
@@ -69,7 +69,7 @@ As employees register, their information will be stored in the employee database
     <p><em>Figure 3 - Databases and User Database Screenshots</em></p>
 </div>
 
-After the employee logs into the application, they are directed to the home screen where they can choose one of two options. The second option is not fully completed, just added in to the screen shot to show the potential the application has. The employee will choose Pet Space Availability and be directed to this screen.
+After the employee logs into the application, they are directed to the home screen, where they can choose one of two options. The second option is not fully completed; it was just added to the screenshot to show the application's potential. The employee will choose Pet Space Availability and be directed to this screen.
 
 <div style="text-align: center;">
     <img src="Images/Pet Hotel Artifact/Home Screen.jpg" width="300px" title="Home Screen Screenshot" />&nbsp;&nbsp;&nbsp;
@@ -77,7 +77,7 @@ After the employee logs into the application, they are directed to the home scre
     <p><em>Figure 4 - Home Screen and Pet Availability Screenshots</em></p>
 </div> 
 
-At the Pet Availability Screen, the user can add a new pet type with available space information, or edit an existing pet type by clicking the item they would like to edit. 
+At the Pet Availability Screen, users can add a new pet type with available space information or edit an existing pet type by clicking the item they want to edit.  
 
 <div style="text-align: center;">
     <img src="Images/Pet Hotel Artifact/Add New Pet Type to DB.jpg" width="300px" title="Add New Pet Type Screenshot" />&nbsp;&nbsp;&nbsp;
@@ -85,7 +85,7 @@ At the Pet Availability Screen, the user can add a new pet type with available s
     <p><em>Figure 5 - Add New Pet Type and Update Pet Type Screenshots</em></p>
 </div> 
 
-As the Pet Types are added in the application, they are also added to the Pet Space Availability Database. 
+The Pet Types are added to the application and added to the Pet Space Availability Database. 
 
 <div style="text-align: center;">
     <img src="Images/Pet Hotel Artifact/Pet Space Availability Database.jpg" width="300px" title="Pet Space Availability Screenshot" />
@@ -95,10 +95,10 @@ As the Pet Types are added in the application, they are also added to the Pet Sp
 #### Narrative
 [Narrative](Narratives_of_Progress_Updates.docx "Narrative")
 
-The narrative that you will read is a combined document from my progress of enhancing the pseudocode. The narrative should explain why I included the artifact in my ePortfolio and my reflection on the process I used to create the artifact. The narrative focuses less on the actual creation of the artifact and more on the learning that happened through the creation of the artifact. 
+The narrative you will read is a combined document from my progress in enhancing the pseudocode. It should explain why I included the artifact in my ePortfolio and reflect on my process for creating it. The narrative focuses less on the actual creation of the artifact and more on the learning that happened through its creation. 
 
-I chose this artifact for my capstone because it represents my growth throughout the computer science program. Originally created as pseudocode in an early course (IT-145), I decided to expand the concept into a fully functioning mobile application using Android Studio. This allowed me to showcase how I’ve applied my skills in software design, engineering, algorithms, data structures, and user-centered design.
+I chose this artifact for my capstone because it represents my growth throughout the computer science program. Created as pseudocode in an early course (IT-145), I expanded the concept into a fully functioning Android Studio mobile application. This allowed me to showcase how I’ve applied my skills in software design, engineering, algorithms, data structures, and user-centered design.
 
-One of the major challenges I faced was my limited experience with Android Studio, which led to persistent issues such as application crashes—especially when integrating multiple RecyclerViews and managing database functionality. Time constraints due to a demanding full-time job also made it difficult to troubleshoot and complete all intended features. Despite these setbacks, I’ve continued refining the application, using user feedback, A/B testing, and design trade-offs to prioritize functionality over aesthetics. I remain committed to improving the app and eventually launching it for real-world use in pet boarding services.
+One of the significant challenges I faced was my limited experience with Android Studio, which led to persistent issues such as application crashes—especially when integrating multiple RecyclerViews and managing database functionality. Time constraints due to a demanding full-time job made troubleshooting and completing all intended features difficult. Despite these setbacks, I’ve continued refining the application, using user feedback, A/B testing, and design trade-offs to prioritize functionality over aesthetics. I remain committed to improving the app and eventually launching it for real-world use in pet boarding services.
 
-While I’ve already achieved several milestones with this project, I see it as just the beginning. I plan to continue developing the application to support full functionality for pet boarders, enabling seamless Pet Check-In and Check-Out processes. As I complete my degree and transition into a new phase of my career, I’m committed to refining and expanding the app. My ultimate goal is to launch it on the Android App Store, making it a valuable tool for pet hotels and boarding services to streamline their operations.
+While I’ve already achieved several milestones with this project, I see it as just the beginning. I plan to continue developing the application to support full functionality for pet boarders, enabling seamless Pet Check-In and Check-Out processes. I'm committed to refining and expanding the app as I complete my degree and transition into a new career phase. My ultimate goal is to launch it on the Android App Store, making it a valuable tool for pet hotels and boarding services to streamline their operations.
