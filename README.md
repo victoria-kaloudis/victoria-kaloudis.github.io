@@ -3,11 +3,21 @@
 ### Welcome to my e-portfolio. This repository documents my progress through the Southern New Hampshire Computer Science Program Capstone course. 
 
 #### <u>Table of Contents<u/>
+&nbsp;[Self Introduction](#self-introduction "Self Introduction")<br/>
 &nbsp;[Professional Self-Assessment](#self-assessment "Professional Self-Assessment")<br/>
 &nbsp;[Refinement Plan and Code Review](#codereview "Refinement Plan and Code Review")<br/>
 &nbsp;[Artifacts](#artifacts "Artifacts")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Original Artifact_](#original-artifact "Original Artifact")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Pet Hotel Application_](#pet-hotel-application "Pet Hotel Application")<br/>
+
+#### Self Introduction
+I’m excited to share my journey with you—a path that has been shaped by a passion for both science and technology. In 2017, I earned my B.S. in Biochemistry from Loyola University Chicago, drawn to the intricate science behind how things work. That passion led me into the biotechnology industry, where I supported pharmaceutical companies in the drug development process.
+
+While working in the field, I began noticing opportunities to improve how we managed and visualized our data. This curiosity sparked my interest in computer science. I started experimenting with Microsoft Workflow, SharePoint rules, and Power BI dashboards to streamline our data operations. Through this hands-on experience, I discovered a new fascination: data science.
+
+Determined to bridge my scientific background with emerging technologies, I made the decision to pursue a second degree in Computer Science—all while working full time. It’s been a challenging but incredibly rewarding experience, and I’m proud to be graduating in just a few weeks.
+
+Combining biochemistry and computer science has opened the door to a fulfilling career in data science within the pharmaceutical space. I’m eager to continue learning, growing, and contributing to innovations at the intersection of science and technology.
 
 #### Professional Self-Assessment
 Throughout my computer science program, completing coursework and building my ePortfolio has been instrumental in shaping my technical skillset, professional identity, and long-term career goals. The combination of hands-on projects, collaborative experiences, and rigorous academic challenges has not only helped me showcase my strengths but also prepared me to confidently enter the computer science field with a well-rounded foundation.
@@ -83,5 +93,5 @@ As the Pet Types are added in the application, they are also added to the Pet Sp
     <p><em>Figure 6 - Pet Space Availability Database Screenshots</em></p>
 </div> 
 
-While I have accomplished these goals, I would like to continue building on it to allow the pet boarders to use the application for Pet Check In and Pet Check Out. 
+While I have accomplished these goals, I would like to continue building on it to allow the pet boarders to use the application for Pet Check In and Pet Check Out. As I finish my degree and work towards shifting my focus to a major career change, I will continue to work on this project. I hope to launch it on the Android App store so that Pet Hotel or boarding services can utilize it. 
 
