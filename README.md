@@ -1,6 +1,6 @@
 # Victoria Kaloudis' E-Portfolio
 
-### Welcome to my e-portfolio. This repository documents my progress through the Southern New Hampshire Computer Science Program Capstone course. 
+### Welcome to my e-portfolio. This repository documents my progress through the Southern New Hampshire University's (SNHU) Computer Science Program Capstone course. 
 
 #### <u>Table of Contents<u/>
 &nbsp;[Self Introduction](#self-introduction "Self Introduction")<br/>
@@ -9,6 +9,7 @@
 &nbsp;[Artifacts](#artifacts "Artifacts")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Original Artifact_](#original-artifact "Original Artifact")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Pet Hotel Application_](#pet-hotel-application "Pet Hotel Application")<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Narrative_](#narratives "Narrative")<br/>
 
 ### Self Introduction
 I’m excited to share my journey with you—a path that has been shaped by a passion for both science and technology. In 2017, I earned my B.S. in Biochemistry from Loyola University Chicago, drawn to the intricate science behind how things work. That passion led me into the biotechnology industry, where I supported pharmaceutical companies in the drug development process.
@@ -36,15 +37,18 @@ Together, these experiences have shaped my values around teamwork, ethical devel
 
 
 ### Refinement Plan and Code Review
+As I reviewed the artifacts from my computer science program, one project stood out above the rest. Early in the program, I was tasked with creating pseudocode for a pet company’s check-in and check-out process. That foundational assignment inspired me to take the project further by developing a mobile application using Android Studio. Having previously built an inventory app in Android Studio for another course—and thoroughly enjoying the experience—I saw an opportunity to merge that interest with the skills I had developed throughout the program. A quote by Steve Jobs resonated with me during this process: “The only way to do great work is to love what you do.” I genuinely enjoyed bringing this project to life. By combining my knowledge of Java, software engineering principles, data structures and algorithms, and database management, I transformed the original pseudocode into a functional mobile app. This hands-on experience allowed me to apply classroom concepts in a meaningful way and significantly improve the original artifact. As graduation approaches, I look forward to continuing this project, refining its features, and exploring its full potential—turning an academic assignment into something real and impactful.
+
 Here is the link to view my code review of the original artifact: https://youtu.be/_hBfjDUGDWY
 
 ### Artifacts
-When reviewing artifacts from my computer science program, one stood out the most to me. When I started the program, I had to create pseudocode to help a pet company with a check in and check out process. Using the pseudocode from this class, I thought it would be a great idea to develop a mobile application utilizing Android Studio. I enjoyed using Android Studio to create an inventory application for a different class and believed it would be enjoyable and also show skills that I have developed in my computer science degree career. A quote by Steve Jobs comes to mind, "The only way to do great work is to love what you do." By combining my enjoyment of utilizing Android Studio with my knowledge of Java script, I could develop the application to the pseudocode. By developing the application from scratch, I was able to enhance the software design and engineering by creating the mobile application. The artifact was improved as I turned pseudocode into code.  By utilizing my knowledge in software engineering and development, algorithms and structures, and databases, I was able to create the start of something new. As my graduation day approaches, I hope to continue to work on this project and enhance it as I have from pseudocode.
+
+The following artifacts representi my growth in the Computer Science program at SNHU. The artifacts demonstrate enhancements in the following categories: Software Design and Engineering, Algorithms and Data Structures, and Databases.
 
 #### Original Artifact
 [Original Pseudocode IT-145 Artifact](Original_Artifact_Pseudocode.docx "Original Artifact Pseudocode")
 
-This project had me write pseudocode that lays out a plan for the pet check in method. Based on the pseudocode I wrote, I then created a flowchart for the Pet Check In method. The flowchart helps my team communicate how we are planning to develop the software for our client. The flowchart includes start and end points, appropriate decision branching, and alignment with the Pet Check In process pseudocode.
+This project involved designing the logic for a Pet Check-In method by first developing detailed pseudocode to outline the workflow. Based on that pseudocode, I created a corresponding flowchart to visually represent the process. The flowchart serves as a communication tool for my team, helping us align on how we plan to develop the software for our client. It includes clearly defined start and end points, logical decision branches, and full alignment with the original pseudocode, ensuring consistency and clarity throughout the development process.
 
 <div style="text-align: center;">
     <img src="Images/Original Artifact/Pseudocode Pet Check In.jpg" width="300px" title="Pet Check In Pseudocode Screenshot" />&nbsp;&nbsp;&nbsp;
@@ -94,5 +98,13 @@ As the Pet Types are added in the application, they are also added to the Pet Sp
     <p><em>Figure 6 - Pet Space Availability Database Screenshots</em></p>
 </div> 
 
-While I have accomplished these goals, I would like to continue building on it to allow the pet boarders to use the application for Pet Check In and Pet Check Out. As I finish my degree and work towards shifting my focus to a major career change, I will continue to work on this project. I hope to launch it on the Android App store so that Pet Hotel or boarding services can utilize it. 
+#### Narrative
+[Narrative](Narratives_of_Progress_Updates.docx "Narrative")
 
+The narrative that you will read is a combined document from my progress of enhancing the pseudocode. The narrative should explain why I included the artifact in my ePortfolio and my reflection on the process I used to create the artifact. The narrative focuses less on the actual creation of the artifact and more on the learning that happened through the creation of the artifact. 
+
+I chose this artifact for my capstone because it represents my growth throughout the computer science program. Originally created as pseudocode in an early course (IT-145), I decided to expand the concept into a fully functioning mobile application using Android Studio. This allowed me to showcase how I’ve applied my skills in software design, engineering, algorithms, data structures, and user-centered design.
+
+One of the major challenges I faced was my limited experience with Android Studio, which led to persistent issues such as application crashes—especially when integrating multiple RecyclerViews and managing database functionality. Time constraints due to a demanding full-time job also made it difficult to troubleshoot and complete all intended features. Despite these setbacks, I’ve continued refining the application, using user feedback, A/B testing, and design trade-offs to prioritize functionality over aesthetics. I remain committed to improving the app and eventually launching it for real-world use in pet boarding services.
+
+While I’ve already achieved several milestones with this project, I see it as just the beginning. I plan to continue developing the application to support full functionality for pet boarders, enabling seamless Pet Check-In and Check-Out processes. As I complete my degree and transition into a new phase of my career, I’m committed to refining and expanding the app. My ultimate goal is to launch it on the Android App Store, making it a valuable tool for pet hotels and boarding services to streamline their operations.
