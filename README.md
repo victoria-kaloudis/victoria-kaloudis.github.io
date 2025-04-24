@@ -24,11 +24,14 @@ Lastly, my coursework in cybersecurity heightened my awareness of threats, vulne
 
 Together, these experiences have shaped my values around teamwork, ethical development, and lifelong learning. They’ve helped me clarify my goal of contributing to impactful, secure, and efficient technologies—and to continuously evolve as a professional in the computer science field.
 
-For this capstone, I decdied to use pseudocode from a very early class in my computer science degree. I was tasked with creating pseudo-code for a pet hotel company. Using the pseudocode, I thought it would be a great idea to develop a mobile application utilizing Android Studio. This will show the skills of what I’ve learned throughout my computer science degree career. I enjoyed learning how to use Android Studio in one of my classes and wanted to apply my knowledge there to this application. By developing the application from scratch, I was able to enhance the software design and engineering by creating the mobile application. The artifact was improved as I turned pseudocode into code.  By utilizing my knowledge in software engineering and development, algorithms and structures, and databases, I was able to create the start of something new. As my graduation day approached, I hope to continue to work on this project and enhance it as I have from pseudocode.
 
 #### Refinement Plan and Code Review
+Here is the link to view my code review of the original artifact: https://youtu.be/_hBfjDUGDWY
 
 #### Artifacts
+When reviewing artifacts from my computer science program, one stood out the most to me. When I started the program, I had to create pseudocode to help a pet company with a check in and check out process. Using the pseudocode from this class, I thought it would be a great idea to develop a mobile application utilizing Android Studio. I enjoyed using Android Studio to create an inventory application for a different class and believed it would be enjoyable and also show skills that I have developed in my computer science degree career. A quote by Steve Jobs comes to mind, "The only way to do great work is to love what you do." By combining my enjoyment of utilizing Android Studio with my knowledge of Java script, I could develop the application to the pseudocode. By developing the application from scratch, I was able to enhance the software design and engineering by creating the mobile application. The artifact was improved as I turned pseudocode into code.  By utilizing my knowledge in software engineering and development, algorithms and structures, and databases, I was able to create the start of something new. As my graduation day approaches, I hope to continue to work on this project and enhance it as I have from pseudocode.
+
 ##### Original Artifact
+
 ##### Pet Hotel Application
 
