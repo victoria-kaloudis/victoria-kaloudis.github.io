@@ -37,7 +37,7 @@ Here is the link to view my code review of the original artifact: https://youtu.
 
 ### Artifacts
 
-The following artifacts representi my growth in the Computer Science program at SNHU. The artifacts demonstrate enhancements in the following categories: Software Design and Engineering, Algorithms and Data Structures, and Databases.
+The following artifacts represent my growth in the Computer Science program at SNHU. The artifacts demonstrate enhancements in the following categories: Software Design and Engineering, Algorithms and Data Structures, and Databases.
 
 #### Original Artifact
 [Original Pseudocode IT-145 Artifact](Original_Artifact_Pseudocode.docx "Original Artifact Pseudocode")
