@@ -23,3 +23,5 @@ Combining biochemistry and computer science has opened the door to a fulfilling 
 vkaloudis22@gmail.com  
 [LinkedIn](https://linkedin.com/in/victoria-kaloudis)  
 
+Last Updated: September 2025
+
