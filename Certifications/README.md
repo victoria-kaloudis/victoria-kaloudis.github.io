@@ -12,8 +12,7 @@ This page tracks my progress through a curated set of industry-recognized data s
 - Covered SQL querying, joins, aggregation, subqueries, and relational database design  
 - Designed to build foundational skills for data analysis in real-world settings
 
-**Microsoft Certified: Power BI Data Analyst Associate**
-
+**Microsoft Certified: Power BI Data Analyst Associate** 
 *uCertify / Microsoft Learn*
 - Completed PowerBI Data Analyst Associate Course through uCertify.
 - Focused on preparing, modeling, and visualizing data in Power BI
